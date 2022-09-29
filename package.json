@@ -20,10 +20,6 @@
     "url": "https://github.com/reactjs/express-react-views.git"
   },
   "license": "BSD-3-Clause",
-  "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
-  },
   "dependencies": {
     "@babel/core": "^7.0.0",
     "@babel/plugin-transform-flow-strip-types": "^7.0.0",
